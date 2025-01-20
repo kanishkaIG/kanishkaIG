@@ -121,7 +121,7 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kanishka-isuru-gangulal-8b8746154/"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="[kanishka](https://www.linkedin.com/in/kanishka-isuru-gangulal-8b8746154/)"/>
     </a>
   </div>
 </div>
